@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+build/
+dist/
+*.spec.bak
+*.egg-info/
+.DS_Store
+gen_icon.py
